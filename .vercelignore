@@ -7,3 +7,5 @@ scripts
 package.json
 package-lock.json
 brand_assets/logo-tianxiang.png
+.env*
+.vercel
