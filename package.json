@@ -1,0 +1,16 @@
+{
+  "name": "tianxiang-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site da TianXiang Acupuntura e Terapias Naturais, em Campinas-SP",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-blog.mjs",
+    "dev": "node serve.mjs",
+    "screenshot": "node screenshot.mjs"
+  },
+  "devDependencies": {
+    "marked": "^18.0.14",
+    "puppeteer-core": "^25.12.0"
+  }
+}

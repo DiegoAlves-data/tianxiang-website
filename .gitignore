@@ -1,0 +1,7 @@
+node_modules/
+temporary screenshots/
+.vercel
+.DS_Store
+
+# preços internos, não publicar
+conteudo-catalogo.md
